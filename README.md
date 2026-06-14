@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0543-diameter-of-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
