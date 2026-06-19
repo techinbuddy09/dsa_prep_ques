@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0155-min-stack) |
 ## Array
 |  |
 | ------- |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0802-find-eventual-safe-states) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
