@@ -1,81 +1,99 @@
 class MinStack {
     stack<long long>st;
-    long long min_ele = -1;
+    long long min_ele =-1;
 public:
     MinStack() {
         
     }
     
-    void push(int val) {
-        //if stack is empty
+    void push(int value) {
+        //empty stack
         if(st.size() == 0)
         {
-            st.push(val);
-            min_ele = val;
+            st.push(value);
+            min_ele = value;
         }
-        else
+        else //two cases
         {
             //case 1 >=
-            if(val >= min_ele)
+            if(value >= min_ele)
             {
-                st.push(val);
+                //simply push in stack no need to update the min_Element
+                st.push(value);
             }
-            else if(val < min_ele)
+            //case 2 <
+            else if(value < min_ele)
             {
-                st.push(2ll*val - min_ele);
-                min_ele = val;            }
+                st.push(2ll*value-min_ele);
+                min_ele=value;//update the min_ele too
+            }
         }
-        
     }
     
     void pop() {
-        // acse 1 if val >= min_ele
-        if(st.top() >= min_ele)
+        //empty stack
+        if(st.size() == 0)
         {
-            st.pop();
+            return ;
         }
-        else if(st.top() < min_ele)
+        else
         {
-            min_ele = 2*min_ele - st.top();
-            st.pop();
-        }    
+            //two cases
+            //case 1 >=
+            if(st.top() >= min_ele)
+            {
+                //simply pop it
+                st.pop();
+            }
+            //case 2 <
+            else if(st.top() < min_ele)
+            {
+               min_ele = 2*min_ele - st.top();
+               st.pop();
+            }
+        }
+        
     }
-    
+
     int top() {
+        // empty stack
         if(st.size() == 0)
         {
-            return -1;// nothing we will have at the top of the stack
-        }
-     else
-    {
-        if( st.top() >= min_ele)
-        {
-            return (int)st.top();//the element we have at the top of the stack
-        }
-        else if(st.top() < min_ele)
-        {
-            return (int)min_ele;
-        } 
-    }  
-        return -1; // if nothing  
-    }
-    
-    int getMin() {
-        if(st.size() == 0)
-        {
-            //if we have empty stack then
             return -1;
         }
-        return(int) min_ele;//else return the minimum element
+        else
+        {
+            // two cases
+            //case 1 >=
+            if(st.top() >= min_ele)
+            {
+                return st.top();
+            }
+            //case 2 <
+            else if(st.top() < min_ele)
+            {
+                return (int)min_ele;
+            }
+        }
+        // if nothing return -1
+        return -1;
+    }
+    int getMin() {
+        //empty stack
+        if(st.size() == 0)
+        {
+            return -1;
+        }
+        else
+            return min_ele;
         
     }
 };
-// typecasted the value since converted in long long format
 
 /**
  * Your MinStack object will be instantiated and called as such:
  * MinStack* obj = new MinStack();
- * obj->push(val);
+ * obj->push(value);
  * obj->pop();
  * int param_3 = obj->top();
  * int param_4 = obj->getMin();
