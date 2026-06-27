@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
