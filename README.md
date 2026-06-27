@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0130-surrounded-regions) |
+| [0169-majority-element](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0733-flood-fill) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -159,4 +161,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
