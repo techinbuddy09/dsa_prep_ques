@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0901-online-stock-span) |
 ## Array
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0130-surrounded-regions) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0542-01-matrix) |
@@ -185,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0085-maximal-rectangle) |
 | [0901-online-stock-span](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
