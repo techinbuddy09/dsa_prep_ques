@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0901-online-stock-span) |
 ## Array
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0901-online-stock-span) |
 ## Binary Search
 |  |
@@ -201,4 +203,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
