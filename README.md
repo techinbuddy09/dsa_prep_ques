@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0071-simplify-path) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0155-min-stack) |
