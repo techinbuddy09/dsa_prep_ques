@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1250-check-if-it-is-a-good-array](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/1250-check-if-it-is-a-good-array) |
 | [1631-path-with-minimum-effort](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/1631-path-with-minimum-effort) |
 ## Two Pointers
 |  |
@@ -212,4 +213,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1250-check-if-it-is-a-good-array](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/1250-check-if-it-is-a-good-array) |
+## Number Theory
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/1250-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
