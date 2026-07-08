@@ -2,15 +2,15 @@ class Solution {
 public:
     int calculate(string s) {
       int len = s.length();
-      stack<int>st;
-      int no = 0;
-      int sign = 1;
-      int res  = 0;
+      stack<long long>st;
+      long no = 0;
+      long sign = 1;
+      long res  = 0;
       for(int i =0;i<len;i++)
       {
         if(isdigit(s[i])) // if we encounter a digit
         {
-            no = no*10+s[i]-'0';
+            no = no*10+(s[i]-'0');
         }
         else if(s[i] == '+')
         {
@@ -26,7 +26,7 @@ public:
         }
         else if(s[i] == '(')
         {
-            st.push(no);
+            st.push(res);//pushing the res calc previously
             st.push(sign);
             res = 0;
             sign = 1;
@@ -46,7 +46,7 @@ public:
         }
       }
       res = (no*sign)+res; // edge case
-      return res;  
+      return (int) res;  
     }
 };
 // here we dont have to use any predefined function
