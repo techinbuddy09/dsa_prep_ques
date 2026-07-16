@@ -221,8 +221,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0224-basic-calculator) |
 | [1250-check-if-it-is-a-good-array](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/1250-check-if-it-is-a-good-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/1250-check-if-it-is-a-good-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
