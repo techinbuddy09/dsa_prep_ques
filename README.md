@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0394-decode-string) |
 | [0901-online-stock-span](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0901-online-stock-span) |
 ## Array
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0394-decode-string) |
 ## Breadth-First Search
 |  |
