@@ -9,19 +9,20 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-        ListNode* slow = head;
+        //here we gonna use  the approach of slow and fast   
+        ListNode * slow = head;
         ListNode* fast = head;
-        while(fast!=NULL && fast->next!= NULL)
+        //now the loop for interation edge case handling
+        while(fast!=NULL && fast->next!=NULL)
         {
             slow = slow->next;
             fast = fast->next->next;
 
-            // now the point where slow and fast collide it is the cycle detected point
+            // if s ==  f means node d
             if(slow == fast)
-                return true;
-        }
-        // if we have traversed entire the linked and nothing we got => no cycle detection 
-        //=>return false
+                    return  true;
+        }        
+        // if nothing found
         return false;
     }
 };
