@@ -65,3 +65,6 @@ public:
         return true;
     }
 };
+// fast and slow pointer se middle
+// reverse linked list se second half reverse
+// then next we gonna compare the two lists
