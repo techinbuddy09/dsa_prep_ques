@@ -23,12 +23,15 @@ public:
         ListNode* cur = dummy ;
         ListNode* nex = dummy;
         int count = 0;
+        // counting the number of nodes over here
         while(cur->next!=NULL)
         {
             count++;
             cur = cur->next;
 
         }   
+
+        // if the count within the valid range toh do pointer changements
 
         while(count>=k)
         {
@@ -37,7 +40,8 @@ public:
             nex = cur->next;
 
 
-            // now iterate k-1 operations
+            // now iterate k-1 operations on each grp
+            
             for(int i = 1;i<k;i++)
             {
                 cur->next = nex->next;
