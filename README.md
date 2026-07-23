@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0085-maximal-rectangle) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0088-merge-sorted-array) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0169-majority-element) |
