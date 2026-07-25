@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0229-majority-element-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/3536-maximum-product-of-two-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0224-basic-calculator) |
 | [1250-check-if-it-is-a-good-array](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/1250-check-if-it-is-a-good-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
