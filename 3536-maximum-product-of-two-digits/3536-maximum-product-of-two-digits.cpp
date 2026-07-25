@@ -30,3 +30,4 @@ public:
 // alright we gonna solve this question using two varibales 
 // digit1-> holding current largest number
 // digit2-> it basically holding the previous largest number
+//  once we have got the current largest no and the second largest no we gonna simply multiply 
