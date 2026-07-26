@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0085-maximal-rectangle) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0169-majority-element) |
 ## Counting
 |  |
