@@ -1,22 +1,24 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        int n = nums.size();
-        unordered_map<int,int>mp;
-        for(int &no:nums)
+        int candidate;
+        int count = 0 ;
+        for(int x:nums)
         {
-            mp[no]++;
-        }
-        //now lets reiterate
-        for(auto it:mp)
-        {
-            if(it.second > n/2)
+            if(count == 0)
             {
-                return it.first;
+                candidate = x;
+                count = 1;
+            }
+            else if(x == candidate)
+            {
+                count++;
+            }
+            else
+            {
+                count--;
             }
         }
-        return -1;
-        
+        return candidate;
     }
 };
-// here we are applying Boyer-Moore Voting Algorithm.
