@@ -11,12 +11,12 @@ public:
 
         for(int x : st)
         {
-            if(x == INT_MIN || st.find(x - 1) == st.end())
+            if(st.find(x - 1) == st.end())
             {
                 int curr = x;
                 int len = 1;
 
-                while(curr < INT_MAX && st.find(curr + 1) != st.end())
+                while(st.find(curr + 1) != st.end())
                 {
                     curr++;
                     len++;
