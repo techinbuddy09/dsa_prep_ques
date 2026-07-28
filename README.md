@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0152-maximum-product-subarray) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0547-number-of-provinces) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0160-intersection-of-two-linked-lists) |
