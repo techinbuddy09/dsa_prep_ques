@@ -1,67 +1,66 @@
 class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
-        int n =nums.size();
-        int c1 = 0 ;
+        //At most 2 elements can appear more than n/3 times.
+        int candidate1 = 0;
+        int candidate2 = 1;
+        int c1 = 0;
         int c2 = 0;
-        int ele1 = INT_MIN;
-        int ele2 = INT_MIN;
-        vector<int>res;
-        for(int  i =0;i<n;i++)
+        for(int x:nums)
         {
-            if(ele1 == nums[i])
+            if(x == candidate1) 
             {
                 c1++;
             }
-            else if(ele2 == nums[i])
+            else if(x == candidate2)
             {
                 c2++;
             }
-            else if(c1 == 0  && ele2!=nums[i])
+            else if(c1 == 0)
             {
-                c1 = 1;
-                ele1 = nums[i];
+                candidate1 = x;
+                c1 =1;
             }
-            else if(c2 ==  0 && ele1!=nums[i])
+            else if(c2 == 0)
             {
+                candidate2 = x;
                 c2 = 1;
-                ele2 = nums[i];
             }
             else
             {
-                // completely different element
                 c1--;
                 c2--;
             }
         }
-
-        // now we gonaa retraverse
-        int c11 = 0;
-        int c21 =0;
-        int mini = (n/3)+1;
-        for(int i = 0;i<n;i++)
+        // phase 2 verfify
+        c1 =0;
+        c2 =0;
+        vector<int>ans;
+        for(int x:nums)
         {
-            if(ele1 ==  nums[i])
+            if(x ==  candidate1)
             {
-                c11++;
+                c1++;
             }
-            if(ele2 == nums[i])
+            else if(x == candidate2)
             {
-                c21++;
+                c2++;
             }
         }
 
-        // now condition chexk
-        if(c11>= mini)
+
+
+///basically weare checking over here na so aise 
+
+        if(c1 > nums.size()/3)
         {
-            res.push_back(ele1);
+            ans.push_back(candidate1);
         }
-        if(c21 >= mini)
+         if(c2 > nums.size()/3)
         {
-            res.push_back(ele2);
+            ans.push_back(candidate2);
         }
 
-        return res;
-
+        return ans;
     }
 };
