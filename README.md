@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0242-valid-anagram) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0084-largest-rectangle-in-histogram) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0169-majority-element) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0142-linked-list-cycle-ii) |
