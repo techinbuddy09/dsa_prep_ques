@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0347-top-k-frequent-elements) |
 | [0542-01-matrix](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0733-flood-fill) |
+| [0877-stone-game](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0152-maximum-product-subarray) |
 | [0542-01-matrix](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0877-stone-game) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Tree
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0224-basic-calculator) |
+| [0877-stone-game](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0877-stone-game) |
 | [1250-check-if-it-is-a-good-array](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/1250-check-if-it-is-a-good-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -326,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0347-top-k-frequent-elements) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
