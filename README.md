@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0347-top-k-frequent-elements) |
+| [0525-contiguous-array](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0733-flood-fill) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0347-top-k-frequent-elements) |
+| [0525-contiguous-array](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0560-subarray-sum-equals-k) |
 ## Bit Manipulation
 |  |
