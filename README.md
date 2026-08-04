@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0287-find-the-duplicate-number) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0287-find-the-duplicate-number) |
 | [1631-path-with-minimum-effort](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/1631-path-with-minimum-effort) |
 ## Heap (Priority Queue)
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0525-contiguous-array) |
@@ -351,5 +354,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
