@@ -53,7 +53,7 @@ public:
             {
                 ans.push_back(i-p.size()+1);//end_idx-wind_size+1
             }
-        }
+        }// we are doing +1 for ending index of the current window too
 
         return ans;
         
