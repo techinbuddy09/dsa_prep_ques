@@ -69,3 +69,5 @@ public:
 };
 // we will firstly handle the 0th row 
 // then next we will mark 0th column
+
+// we are doing row first because agar column phele kiya toh matrix[0][0] bhi 0 ho sakta ha ...phir woh na confusion create karfega isliya we will avoid 
