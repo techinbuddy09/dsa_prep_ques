@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0056-merge-intervals) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0130-surrounded-regions) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0224-basic-calculator) |
