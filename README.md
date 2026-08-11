@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0073-set-matrix-zeroes) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0130-surrounded-regions) |
@@ -392,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0056-merge-intervals) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
