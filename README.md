@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0973-k-closest-points-to-origin](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0973-k-closest-points-to-origin) |
 | [3536-maximum-product-of-two-digits](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/3536-maximum-product-of-two-digits) |
 ## Linked List
 |  |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0973-k-closest-points-to-origin) |
 | [1631-path-with-minimum-effort](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -338,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0224-basic-calculator) |
 | [0523-continuous-subarray-sum](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0973-k-closest-points-to-origin) |
 | [1250-check-if-it-is-a-good-array](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/1250-check-if-it-is-a-good-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -377,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0973-k-closest-points-to-origin) |
 ## Game Theory
 |  |
 | ------- |
@@ -403,4 +409,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0054-spiral-matrix) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
