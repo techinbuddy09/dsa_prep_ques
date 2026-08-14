@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0901-online-stock-span) |
 ## Binary Search
 |  |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -329,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
