@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0435-non-overlapping-intervals) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0567-permutation-in-string) |
