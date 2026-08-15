@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0347-top-k-frequent-elements) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0435-non-overlapping-intervals) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0287-find-the-duplicate-number) |
 | [1631-path-with-minimum-effort](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/1631-path-with-minimum-effort) |
 ## Heap (Priority Queue)
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -354,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0224-basic-calculator) |
+| [0268-missing-number](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0973-k-closest-points-to-origin) |
@@ -380,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
