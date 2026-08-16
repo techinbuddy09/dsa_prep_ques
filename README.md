@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0076-minimum-window-substring) |
+| [0151-reverse-words-in-a-string](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0394-decode-string) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0143-reorder-list) |
+| [0151-reverse-words-in-a-string](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0283-move-zeroes) |
