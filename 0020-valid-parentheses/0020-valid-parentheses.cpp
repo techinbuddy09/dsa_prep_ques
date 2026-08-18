@@ -1,48 +1,38 @@
 class Solution {
 public:
     bool isValid(string s) {
+        // step one push all the opening unto the stack 
         stack<char>st;
-        for( char &ch:s)
+        for(char ch:s)
         {
-            if(st.empty() || ch == '(' || ch == '{' || ch == '[')
+            if(ch == '{' || ch == '[' || ch == '(')
             {
                 st.push(ch);
-                //continue;
             }
-            // if not we need to check the character with stack top
-            if(ch == ')')
+            else
             {
-                if(st.top() == '(')
-                {
-                    st.pop();
-                }
-                else
-                     return false;
-            }
-            if(ch == ']')
-            {
-                if(st.top() == '[')
-                {
-                    st.pop();
-                }
-                else
-                     return false;
-            }
-            if(ch == '}')
-            {
-                if(st.top() == '{')
-                {
-                    st.pop();
-                }
-                else
-                     return false;
-            }
+                //now the case if supppose the charcter we encountered closing to if it doesnt matches st.top() false na also 
+                // first check for the stack empty too like closing u have but stack mein koi opening hi na ho
+                if(st.empty()) return false;
 
+                //next invalid case condition
+                if((ch == ']' && st.top()!='[') || (ch == '}'&& st.top()!='{') || (ch == ')' && st.top()!='('))
+                {
+                    return false;//means the closing didnt got the corect opening so invalid case
+                }
+
+                // if not simply pop from stack
+                st.pop();
+            }
         }
-        return st.empty();// like if the stack is empty return true 
+
+        //in the end if stack is empty return false
+        return st.empty();
     }
 };
-// so basically in order to check for the valid parenthesis firstly if u encounter 
-//opening parenthesis push it the stack
-// then when u encounter the closing then check that charcter with stack top if same we pop the character from stack if not we return false
-// in the end if the stack is empty return true
+// here so what we have to do is
+// here in this ques every opening parenthesis it has a closing
+//opening brackets must closed by same closing omes
+//every closing parenthesis has a corresponding open
+//the most recent thing needs to be handled first 
+
