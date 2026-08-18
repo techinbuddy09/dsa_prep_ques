@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0647-palindromic-substrings) |
+| [0771-jewels-and-stones](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0771-jewels-and-stones) |
 ## Stack
 |  |
 | ------- |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0771-jewels-and-stones) |
 ## Divide and Conquer
 |  |
 | ------- |
