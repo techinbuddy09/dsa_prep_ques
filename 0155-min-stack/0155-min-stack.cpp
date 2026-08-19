@@ -1,92 +1,38 @@
 class MinStack {
-    stack<long long>st;
-    long long min_ele =-1;
 public:
+// alright lets define the two stack here
+    stack<int>st;//main stack
+    stack<int>min_st;//min stack 
+
     MinStack() {
         
     }
     
     void push(int value) {
-        //empty stack
-        if(st.size() == 0)
-        {
-            st.push(value);
-            min_ele = value;
-        }
-        else //two cases
-        {
-            //case 1 >=
-            if(value >= min_ele)
-            {
-                //simply push in stack no need to update the min_Element
-                st.push(value);
-            }
-            //case 2 <
-            else if(value < min_ele)
-            {
-                st.push(2ll*value-min_ele);
-                min_ele=value;//update the min_ele too
-            }
-        }
+       // in min stack ewe push normally
+       st.push(value);
+       //for the min stack we need to see if empty and <=
+       if(min_st.empty() || value <= min_st.top())
+            min_st.push(value);
     }
     
     void pop() {
-        //empty stack
-        if(st.size() == 0)
-        {
-            return ;
-        }
-        else
-        {
-            //two cases
-            //case 1 >=
-            if(st.top() >= min_ele)
-            {
-                //simply pop it
-                st.pop();
-            }
-            //case 2 <
-            else if(st.top() < min_ele)
-            {
-               min_ele = 2*min_ele - st.top();
-               st.pop();
-            }
-        }
-        
-    }
+        // before poping we need to store theek
+        int x = st.top();
+        st.pop();
 
-    int top() {
-        // empty stack
-        if(st.size() == 0)
-        {
-            return -1;
-        }
-        else
-        {
-            // two cases
-            //case 1 >=
-            if(st.top() >= min_ele)
-            {
-                return st.top();
-            }
-            //case 2 <
-            else if(st.top() < min_ele)
-            {
-                return (int)min_ele;
-            }
-        }
-        // if nothing return -1
-        return -1;
+        //next before pop from min stack we need to compare before poping
+        if(x == min_st.top())
+            min_st.pop();
     }
+    
+    int top() {
+        return st.top();// return the top of stack top
+    }
+    
     int getMin() {
-        //empty stack
-        if(st.size() == 0)
-        {
-            return -1;
-        }
-        else
-            return min_ele;
-        
+        //we have to get the min_element in constant t.c
+        return min_st.top();//  solving the get min in constant space t.c
     }
 };
 
@@ -97,4 +43,52 @@ public:
  * obj->pop();
  * int param_3 = obj->top();
  * int param_4 = obj->getMin();
- */
+
+// what makes this ques special is that like here in this ques we need to get the minimum element in constant time that is O(1)
+// if suppose first time the min element which we have  at the stack top toh we pop 
+// if suppose next time we want min and its not at top =>we cant get the min element in constant time we need to traverse which is not optimized
+//=> normal stack cant be used
+//how can we remember that minimum element
+/*What data structure naturally stores history?
+
+We need:
+
+current minimum
+previous minimum
+previous previous minimum
+... [stack is used]
+
+And when the current minimum is removed, we want to go back to the previous one.
+
+That's again LIFO.
+
+So what can store this history?
+
+=> Another stack.
+
+Therefore:
+
+Stack 1
+
+Stores the actual elements.
+
+Stack 2
+
+Stores the minimum information.
+
+That's the entire core idea.
+=>so basically in this ques we gonna use two stacks one for normal op and other to keep the record of the minimum elements
+
+we basically push like in min stack like <= cases bhi in order to handle duplicate ones na
+
+push → always main stack
+       <= current min → min stack
+
+pop  → save top first
+       pop main
+       if saved == min top → pop min
+
+top  → main.top()
+
+getMin → minStack.top()
+*/
