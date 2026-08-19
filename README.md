@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0901-online-stock-span) |
 ## Array
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0542-01-matrix) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
