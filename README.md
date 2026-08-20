@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1250-check-if-it-is-a-good-array](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/1250-check-if-it-is-a-good-array) |
 | [1631-path-with-minimum-effort](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/1631-path-with-minimum-effort) |
+| [2126-destroying-asteroids](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/2126-destroying-asteroids) |
 ## Two Pointers
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0973-k-closest-points-to-origin](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0973-k-closest-points-to-origin) |
+| [2126-destroying-asteroids](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/2126-destroying-asteroids) |
 | [3536-maximum-product-of-two-digits](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/3536-maximum-product-of-two-digits) |
 ## Linked List
 |  |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [2126-destroying-asteroids](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/2126-destroying-asteroids) |
 ## Bucket Sort
 |  |
 | ------- |
