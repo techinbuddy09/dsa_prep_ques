@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0901-online-stock-span) |
 ## Array
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0994-rotting-oranges) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
