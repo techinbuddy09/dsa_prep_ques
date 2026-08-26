@@ -1,119 +1,96 @@
 class Solution {
-    typedef long long ll;
-    vector<ll>nsl(vector<int>&nums)
-    {
-        vector<ll>left;
-        int n = nums.size();
-        stack<pair<int ,int>>st;
-        int idx =-1;
-        for(int i =0;i<n;i++)
-        {
-            if(st.size() == 0)
-            {
-                left.push_back(idx);
-            }
-            else if(st.size()>0 && st.top().first < nums[i])
-            {
-                left.push_back(st.top().second);
-            }
-            else if(st.size()>0 && st.top().first >= nums[i])
-            {
-                while(st.size()>0 && st.top().first >= nums[i])
-                {
-                    st.pop();
-                }
-                if(st.size() == 0)
-                {
-                    left.push_back(idx);
-                }
-                else
-                {
-                    left.push_back(st.top().second);
-                }
-            }
-            st.push({nums[i],i});
-        }
-        return left;
-    }
-     vector<ll>nsr(vector<int>&nums)
-    {
-        vector<ll>right;
-        int n = nums.size();
-        stack<pair<int ,int>>st;
-        int idx =n;
-        for(int i =n-1;i>=0;i--)
-        {
-            if(st.size() == 0)
-            {
-                right.push_back(idx);
-            }
-            else if(st.size()>0 && st.top().first < nums[i])
-            {
-                right.push_back(st.top().second);
-            }
-            else if(st.size()>0 && st.top().first >= nums[i])
-            {
-                while(st.size()>0 && st.top().first >= nums[i])
-                {
-                    st.pop();
-                }
-                if(st.size() == 0)
-                {
-                    right.push_back(idx);
-                }
-                else
-                {
-                    right.push_back(st.top().second);
-                }
-            }
-            st.push({nums[i],i});
-        }
-        reverse(right.begin(),right.end());
-        return right;
-    }
-
-    int MAH(vector<int>&nums)
-    {
-        int n = nums.size();
-        vector<long long>nsl_idx = nsl(nums);
-        vector<long long>nsr_idx = nsr(nums);
-        ll max_area = 0;
-        for(int i =0;i<n;i++)
-        {
-            ll width = abs(nsr_idx[i] - nsl_idx[i])-1;// everythime calculating width
-            ll area =  1LL*width*nums[i];//everythime calculating arae
-            max_area = max(max_area,area);
-        }
-        return (int)max_area;
-    }
 public:
     int maximalRectangle(vector<vector<char>>& matrix) {
-        int n = matrix.size();
-        int m = matrix[0].size();
-        vector<int>v;
-        for(int j = 0;j<m;j++)
+
+        //we are traversing row wise ..like building the histogram rowise here
+        //updating the heights over here
+        // and here right boundary sirf columns tak jaeghi
+        int r = matrix.size();
+        int c = matrix[0].size();
+
+        int maxi_area = 0;
+        vector<int>height(c,0); // we gonna make it of column
+        for(int i = 0 ;i < r;i++)
         {
-            v.push_back(matrix[0][j]-'0');
-        }
-        int max_area = 0;
-        max_area = MAH(v);
-        //next lets iterate on others
-        for(int i =1;i<n;i++)
-        {
-            for(int j = 0;j<m;j++)
+            //we gonna build histograms for each current rows
+            for(int j = 0; j<c ; j++)
             {
-                if(matrix[i][j]!='0')
-                {
-                    v[j]=v[j]+matrix[i][j]-'0';
-                }
+                // so we gonna firstly update the height of vertical consecutive
+                if(matrix[i][j] == '1')
+                    height[j]++;//increase
                 else
+                    height[j] = 0;//reset back to 0    
+
+            }
+
+            stack<int>st;
+            //next once we have our histogram out of matrix lets traverse and find the largest rectangle in histo
+            for(int j = 0;j<=c;j++)
+            {
+                //traverse till valid index 
+                int cur_ht = (j==c)?0:height[j];
+                //lets pop till all the tallers bars are resolved
+                while(!st.empty() && height[st.top()] > cur_ht)
                 {
-                    v[j]=0;
+                    int h = height[st.top()];
+                    st.pop();
+
+                    int l = st.empty()?-1:st.top();
+                    int r = j;
+
+                    int width = r - l -1;
+                    int area = h*width;
+                    maxi_area = max( maxi_area,area);
+                }
+
+                if(j<c)
+                {
+                    //means valid wala hi push
+                    st.push(j);
                 }
             }
-            // after each 1d we find max mah
-            max_area = max(max_area,MAH(v));
         }
-        return max_area;
+
+        return maxi_area;
     }
 };
+/*2D Matrix → convert each row into a 1D histogram → apply the exact Largest Rectangle algorithm you just learned.
+
+Matrix
+   ↓
+Process row by row
+   ↓
+Maintain vertical consecutive-1 heights
+   ↓
+Current row becomes a histogram
+   ↓
+Largest Rectangle in Histogram
+   ↓
+Get best rectangle whose bottom is current row
+   ↓
+Update global maximum
+   ↓
+Next row
+
+[basically we try to update the height of the building its like vertical height update of consecutive ones]
+
+1  → building continues → height++
+1  → building continues → height++
+1  → building continues → height++
+0  →  building breaks → height = 0
+1  → new building starts → height = 1
+
+ Vertical consecutive 1s = histogram height.
+ Horizontal consecutive bars = rectangle width.
+
+
+ actual current:
+    pop + calculate all
+    ↓
+    push current
+
+fake 0:
+    pop + calculate all
+    ↓
+    DONE
+*/
