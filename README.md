@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Array
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1250-check-if-it-is-a-good-array](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/1250-check-if-it-is-a-good-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1631-path-with-minimum-effort](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/1631-path-with-minimum-effort) |
 | [2126-destroying-asteroids](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/2126-destroying-asteroids) |
 ## Two Pointers
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Data Stream
 |  |
 | ------- |
