@@ -485,4 +485,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0020-valid-parentheses) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
