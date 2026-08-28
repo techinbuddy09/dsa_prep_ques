@@ -11,6 +11,7 @@
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
+        
         ListNode* temp = head;
         ListNode* prev = NULL;
         while(temp!=NULL)
@@ -20,7 +21,8 @@ public:
             prev = temp;
             temp = front;
         }
-        return prev;//prev holding the modified head of reverse linked  list
-        
+
+        return prev;
+
     }
 };
