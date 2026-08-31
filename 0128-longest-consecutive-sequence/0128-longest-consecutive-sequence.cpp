@@ -8,7 +8,7 @@ public:
         int n = nums.size();
         int longest = 0;
         unordered_set<int>st(nums.begin(),nums.end());
-        for(int x:st)
+        for( auto x:st)
         {
             if(st.find(x-1) == st.end())
             {
