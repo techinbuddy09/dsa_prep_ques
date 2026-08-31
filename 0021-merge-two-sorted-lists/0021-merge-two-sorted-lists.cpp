@@ -17,29 +17,28 @@ public:
         ListNode* temp = dummy;
         while(t1!=NULL && t2!=NULL)
         {
-            if(t1->val < t2->val)
+            if(t1->val < t2->val )
             {
                 temp->next = t1;
                 temp = t1;
-                t1= t1->next;
+                t1 = t1->next;
             }
-            else
+            else 
             {
                 temp->next = t2;
                 temp = t2;
                 t2 = t2->next;
             }
         }
-        // if suupose one list exhausted simply just attach the remaining list
+
+        // now if suppose one list is exhausted before in that case
         if(t1)
-        {
             temp->next = t1;
-        }
+
         if(t2)
-        {
             temp->next = t2;
-        }
-        
-        return dummy->next;
+
+      return dummy->next;          
+
     }
 };
