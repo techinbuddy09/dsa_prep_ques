@@ -504,4 +504,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0183-customers-who-never-order) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
