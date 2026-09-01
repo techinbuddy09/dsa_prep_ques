@@ -11,46 +11,98 @@
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode* t1 = l1;
-        ListNode* t2 = l2;
-        int sum  = 0;
-        int carry = 0;
+
         ListNode* dummy = new ListNode(-1);
-        // now take a curr pointer and point it to dummy
-        ListNode* curr = dummy;
-        while(t1!=NULL ||  t2!=NULL)
+        ListNode* temp = dummy;// basically we have dummy for traversing theek
+        int carry = 0;
+        while(l1!= NULL || l2!=NULL || carry!= 0)
         {
-            // firstly add carry to sum
-            sum = carry;
-            if(t1)
+            int sum = carry ;//add carry theek
+            if(l1!=NULL)
             {
-                sum = sum+t1->val;
+                sum+=l1->val;
+                l1 = l1->next;
             }
-            if(t2)
+            if(l2!=NULL)
             {
-                sum = sum+t2->val;
+                sum+=l2->val;
+                l2 = l2->next;
             }
 
-            ListNode* summy = new ListNode(sum%10);
-            carry = sum/10;//update the value of sum too
-            curr->next = summy;
-            curr = curr->next;
+            //next digit se node create and then phir update carry
+            int digit = sum%10;
+            carry = sum/10;
 
-            if(t1)
-                t1= t1->next;
-            if(t2)
-                 t2=t2->next;    
+            ListNode* ewly = new ListNode(digit);
+            temp->next = ewly;
+            temp = temp->next;
         }
 
-        // next once if any of the list is exhausted so we gonna create carry node and simply add
-        if(carry)
-        {
-            ListNode* carryy = new ListNode(carry);
-            curr->next = carryy;
-        }
-
-        //and simply return dummy ka next means the sum list 
         return dummy->next;
-    }
+        
 
+    }
 };
+/*sum = val1 + val2 + carry;
+  digit = sum%10;
+  carry = sum/10;
+
+  while (l1 != NULL || l2 != NULL || carry != 0)
+
+This last carry != 0 is important.
+
+For:
+
+9 → 9
+1
+
+we get:
+
+999? 
+
+Let's use a cleaner example:
+
+l1 = 9
+l2 = 1
+9 + 1 = 10
+
+Result:
+
+0 → 1
+
+After both lists become NULL, carry is still 1, so we need one final node.
+
+So every iteration:
+
+
+carry = 0
+sum = digit1 + digit2 + carry
+
+Then:
+
+digit = sum % 10
+carry = sum / 10
+
+Then:
+
+create node(digit)
+move l1
+move l2
+
+carry = 0
+
+        ↓
+sum = l1 digit + l2 digit + carry
+        ↓
+digit = sum % 10
+        ↓
+carry = sum / 10
+        ↓
+create node(digit)
+        ↓
+move l1 and l2
+        ↓
+repeat while:
+l1 != NULL || l2 != NULL || carry != 0
+
+*/
