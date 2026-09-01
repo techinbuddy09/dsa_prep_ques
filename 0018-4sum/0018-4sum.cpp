@@ -1,75 +1,65 @@
 class Solution {
 public:
     vector<vector<int>> fourSum(vector<int>& nums, int target) {
-
+        
         int n = nums.size();
-        //firstly we gonna sort the array
+        vector<vector<int>>ans;
         sort(nums.begin(),nums.end());
-        // since array sorted we gonna apply two pointer technique over here
-        vector<vector<int>>res;// to store the ans
-        // fix first element
-        for(int i =0;i<n;i++)
+
+        //here we gonna fix two elements here 
+        for(int i =0 ;i<n;i++)
         {
-            // skip the first fix ele duplicate to avoid , in order to avoid duplicates
+            //skip dupliactes for the fixed elements
+
             if(i>0 && nums[i] == nums[i-1])
             {
                 continue;
             }
 
-            //next we gonna fix the second element 
-            for(int j = i+1;j<n;j++)
-            { 
-                //skip  the second fix element  to avoid duplicates
+            for(int j = i+1 ; j<n;j++)
+            {
+                //skip duplicates here too for fixed elements theek
+                // here also joh sec ele ha woh >i+1 se hona toh chaeya theek 
                 if(j>i+1 && nums[j] == nums[j-1])
                 {
                     continue;
                 }
 
-                // next we gonna set the two pointers 
-                int k = j+1;
+                //now we gonna set the two pointers 
+                int k  = j+1;
                 int l = n-1;
+                while(k<l)
+                {
+                    long long sum  = 1ll* nums[i]+nums[j]+nums[k]+nums[l];
 
-                // now calculate the sum value
-                // here to overcome the integer overflow we have this long long and force long type multiplication
-                 //long long sum = 1LL*nums[i]+nums[j]+nums[k]+nums[l];
-
-                 //now lets traverse
-                 while(k<l)
-                 {
-                    // always calc sum na
-                     long long sum = 1LL*nums[i]+nums[j]+nums[k]+nums[l];
-
-                     if(sum < target)
-                     {
+                    if(sum < target)
+                    {
                         k++;
-                     }
-                     else if (sum > target )
-                     {
+                    }
+                    else if(sum > target)
+                    {
                         l--;
-                     }
-                     else
-                     {
-                        res.push_back({nums[i],nums[j],nums[k],nums[l]});
+                    }
+                    else
+                    {
+                        ans.push_back({nums[i],nums[j],nums[k],nums[l]});
                         k++;
                         l--;
-                        // move both the pointers  to avoid duplicates 
-                        // next inner loop moving of k and l to avoid 
-                        while(k<l && nums[k] ==  nums[k-1])
+
+                        //next we need to skip the duplicates of k and l
+                        while(k<l && nums[k] == nums[k-1])
                         {
-                            k++; // to avoid
+                            k++;
                         }
-
                         while(k<l && nums[l] == nums[l+1])
                         {
                             l--;
                         }
-                      } 
-                 }
-        
-           }
+                    }
+                }
+            }
         }
-        return res;  // now return the res vector      
-    }   
+
+        return ans;
+    }
 };
-// here we are are storing quadruplets.{group of 4}
-// here to avoid integer oveflow we are using long long for it 
