@@ -1,33 +1,33 @@
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
-        
-        int n = nums.size();
-        int sum = 0;
         int maxi = INT_MIN;
-        for(int i = 0;i<n;i++)
+        int sum = 0;
+        for(int i = 0;i<nums.size();i++)
         {
-            sum += nums[i];
-            maxi = max(sum,maxi);
+            sum+=nums[i];
+            maxi = max(sum,maxi);// do the updation before only theek
 
-            if(sum<0)
+            //now rest -ve running sum to 0
+            if(sum < 0)
             {
                 sum = 0;
             }
         }
+        
         return maxi;
     }
 };
-// gonna solve this question using the kadanes algorithm hehe
-// in the kadanes algo if the running sum which we get is negative so i guess its better not carry it forward and rest our sum to 0 and start a new subarray 
-// like suppose sum =-5 theek if i add 10 =>sum =5 but if i reset and create a new =>sum = 10 which is better=>carrying a negative running sum is useless  theek
-// we wont reset sum to zero if we see a negative element'
-// we reset to 0 only when the running sum is -ve because adding any value to it will only make the future ans smaller 
+/*alright the main intuition in this ques is 
+//  in this we carry the running sum of the subarray theek
+//if the current running sum it is < 0  means negative its useless to carry it forward
+-because a -ve running sum will only reduce our future ans theek
+- so its better toh reset the sum back to 0 and do fresh start with a new subaary and new element
+-like suppose sum = -5 and next ele = 10
+-if we carry this our sum becomes 5 ..our future is reduced na
+-but what if we rest our sum to 0 ..and do a fresh start here theek
+- so now our sum = 10 ..something a better result
 
-
-// when we check for our ans na so firslty we add theek 
-//next update the maxi value theek
-// after that we check if sum < 0  and reset sum to 0 if -ve 
-// because if suppose arrays only has [-2]=> the only ans =-2 na so thats why
-
-//so basically sum = 0 maxi = int_min theek next loop phir sum+=nums[i] .. firstly we will update maxi only maxi = max(maxi,sum) .. and after that we will reset sum to 0 if sum < 0 theek and then return maxi one thing we are updating maxi first because suppose array mein sirf[-2] eak hi toh iska toh max subbaray sum -2 hi ho ga ..and agar mene ohele he -ve running sum dekh ke rest kardiya sum = 0 phir toh it will be wrong hehhe
+-also an edge case here in this we gonna update our maxi befoe..reset our current running sum ..theek becuase suppose our subaarray only has
+[-2] theek so here agar we didnt updated andrun our ..rest sum logic isse we got our max sum ans as 0...but that ans is wrong like the only element which we have is -2 so ..isliya sometimes before reset ..we update before hand
+*/
