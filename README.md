@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0215-kth-largest-element-in-an-array) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0647-palindromic-substrings) |
