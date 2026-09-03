@@ -532,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0595-big-countries) |
+| [1075-project-employees-i](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/1075-project-employees-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Floyd's Cycle Finding Algorithm
 |  |
