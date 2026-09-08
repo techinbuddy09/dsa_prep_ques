@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0210-course-schedule-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0547-number-of-provinces) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0543-diameter-of-binary-tree) |
 ## Recursion
@@ -570,4 +573,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0257-binary-tree-paths) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/techinbuddy09/dsa_prep_ques/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
